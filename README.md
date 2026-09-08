@@ -1,8 +1,9 @@
-# Electronic-Circuits--Half-Wave-Rectifier
+<img width="1266" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a6039ee-e34b-4238-b8c7-b9a20ad75f61" /># Electronic-Circuits--Half-Wave-Rectifier
 
 ## AIM:
 To simulate a half wave rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+<img width="1599" height="1274" alt="image" src="https://github.com/user-attachments/assets/cf87e50d-4108-4344-bac2-8a1d9037ec12" />
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
@@ -44,5 +45,11 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
+<img width="1003" height="1359" alt="image" src="https://github.com/user-attachments/assets/5601421a-d936-4390-9ed3-b632c2eff1c7" />
+<img width="1266" height="1600" alt="image" src="https://github.com/user-attachments/assets/54aea800-07af-4b00-a6ec-68d97ab0ee05" />
+<img width="1003" height="1359" alt="image" src="https://github.com/user-attachments/assets/69ff3a7f-6540-4f51-87c3-6cdb51c9a3df" />
 
 ## RESULT:
+The half wave rectifier circuit with and without filter were implemented and the output waveforms were obtained and the PIV were found to be
+1.) With filter PIV = 3.8V
+2.) Without filter PIV = 2.4V
