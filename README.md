@@ -50,6 +50,4 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 <img width="1003" height="1359" alt="image" src="https://github.com/user-attachments/assets/69ff3a7f-6540-4f51-87c3-6cdb51c9a3df" />
 
 ## RESULT:
-The half wave rectifier circuit with and without filter were implemented and the output waveforms were obtained and the PIV were found to be
-1.) With filter PIV = 3.8V
-2.) Without filter PIV = 2.4V
+<img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/b4c3c78b-1228-4f8d-ae42-5a4ad1dcee7c" />
